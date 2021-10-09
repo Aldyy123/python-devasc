@@ -1,1 +1,1 @@
-print('Learning github CLI')
+print('Learning github Command')
