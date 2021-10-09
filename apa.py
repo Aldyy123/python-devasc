@@ -1,1 +1,1 @@
-print('Haloo dunia')
+print('Biasa ae gak tau juga sh')
