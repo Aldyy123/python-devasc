@@ -1,0 +1,1 @@
+print('Biasa ae dah')
