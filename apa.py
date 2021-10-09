@@ -1,1 +1,1 @@
-print('Biasa ae Erro')
+print('Hallo Dunia')
