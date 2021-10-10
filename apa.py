@@ -1,1 +1,1 @@
-print('Biasa ae dah')
+print('Hallo Dunia')
