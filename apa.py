@@ -1,1 +1,1 @@
-print('Biasa ae gak tau juga sh')
+print('Mencoba lagi cuy')
