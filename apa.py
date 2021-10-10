@@ -1,2 +1,2 @@
 print('Hallo Dunia')
-print('Kumaha')
+print('Kumaha danang teh iya')
